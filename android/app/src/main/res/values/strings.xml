@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> Flutter Demo </string>
+    <string name="facebook_app_id">1022864342052230</string>
+    <string name="fb_login_protocol_scheme">fb1022864342052230</string>
+    <string name="facebook_client_token">c6371c9cb477960c274f248c66bde40a</string>
+    
+</resources>
+
+
